@@ -2,3 +2,5 @@ Three
 Hello
 3
 333
+
+Adding new theme functionality
